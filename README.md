@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://spark-hydrant-501.notion.site/45ff5f8464d34dd2aaedda9b9087411c"><img src="https://img.shields.io/badge/Notion-Portfolio-9cf?style=for-the-badge&logo=notion&logoColor=9cf"/></a><br>
-    <a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
-   <a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
+    <!--<a href="https://codesyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-Tech Blog-EEEEEE?style=for-the-badge&logo=Blogger&logoColor=white"/></a>&nbsp; &nbsp; &nbsp;
+   <a href="https://www.instagram.com/s.yun.tudio/"><img src="https://img.shields.io/badge/Instagram-Drawing-EEEEEE?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp-->
 </p>
 
 <p align="center">Click to go </p>
