@@ -47,4 +47,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </div>
 
+<br><br>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer)
